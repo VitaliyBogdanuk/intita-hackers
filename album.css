@@ -78,6 +78,11 @@ footer p {
     color: #f1f1f1;
 }
 
+.sidenav a i {
+  width: 40px;
+  color: lightgreen;
+}
+
 .sidenav .closebtn {
     position: absolute;
     top: 0;
